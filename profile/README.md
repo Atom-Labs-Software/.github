@@ -25,6 +25,8 @@ From legal technology and AI systems to infrastructure and SaaS platforms, Veros
 ![Cloud](https://img.shields.io/badge/AWS%20%7C%20Azure-Infrastructure-orange)
 
 </p>
+```
+
 ```bash
 $ whoami
 
