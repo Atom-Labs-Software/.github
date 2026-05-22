@@ -25,3 +25,23 @@ From legal technology and AI systems to infrastructure and SaaS platforms, Veros
 ![Cloud](https://img.shields.io/badge/AWS%20%7C%20Azure-Infrastructure-orange)
 
 </p>
+```bash
+$ whoami
+
+Veros Labs
+
+$ mission
+
+Build software that solves real problems
+
+$ current_projects
+
+> Vero
+> Vero Books
+> TrackPoint
+> AI Systems
+
+$ status
+
+Building...
+```
